@@ -11,10 +11,12 @@ This project includes following files.
 -	sat_2019_by_intended_college_major.csv
 -	sat_act_by_college.csv
 ## Tech Stack
--Python
--Jupyter Notebook
+- Python
+- Jupyter Notebook
 ## Getting Started 
 To run this notebook, you will need to use Anaconda Navigator. If you don’t have Anaconda Navigator you need to download and install Anaconda 3. (Go to the Anaconda website (https://www.anaconda.com/download) and download the latest version of Anaconda. Run the installer and follow the prompts to install Anaconda.)
+## To run the Notebook
+To run this notebook, launch Jupyter Notebook in Anaconda Navigator and open Data analysis using Python.ipynb file
 ## Python Libraries 
 -	Import pandas as pd
 -	Import matplotlib.pyplot as plt
